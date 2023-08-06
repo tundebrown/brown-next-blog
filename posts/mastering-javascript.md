@@ -20,4 +20,4 @@ function printBasics() {
 printBasics();
 ```
 
-Learn more about it [here](https://academind.com).
+Learn more about it [here](https://brown-next-blog.vercel.app/).
